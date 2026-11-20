@@ -1,0 +1,40 @@
+{
+    "versiya":  "2026.11.20.2356",
+    "izoh":  "",
+    "sana":  "2026-11-20 23:56",
+    "fayllar":  [
+                    {
+                        "yol":  "Hamroh.exe",
+                        "sha256":  "42b277c92479fe9db5ef98e58bebbdae66fb39c46db555f955c6c821d5e57f8b"
+                    },
+                    {
+                        "yol":  "app/hamroh.html",
+                        "sha256":  "96f74ea81a30fe57054c95d67c2956952465aa1c61b4c80bdcdc9223c73a5775"
+                    },
+                    {
+                        "yol":  "app/manifest.json",
+                        "sha256":  "e74c6f616fd4f8a1e836795b58bd4c08ee988e3ff165cbbc40fdff320725237e"
+                    },
+                    {
+                        "yol":  "app/favicon.ico",
+                        "sha256":  "1d9fd2e37cb1ff030c13e98d0a584567b4c33d32109cac54f4bc97628d5dad8a"
+                    },
+                    {
+                        "yol":  "app/icon-32.png",
+                        "sha256":  "ce982df87306331759e1272b0a1932ed35b9f11188f68cc1235f9254f22a4a9c"
+                    },
+                    {
+                        "yol":  "app/icon-192.png",
+                        "sha256":  "c0228012146b07ce2bb43170667ba6c9b5f8c90f98ca8497cf0f410f85d42d56"
+                    },
+                    {
+                        "yol":  "app/icon-512.png",
+                        "sha256":  "e4eb348b2d07561ed5c9bc106b0e24f1e4a05d2b4247e1e3cb79a57242808c94"
+                    },
+                    {
+                        "yol":  "data/tizim/xlsx.json",
+                        "sha256":  "4c2d5b6e9433860eead48c01da89ec6ffa4a1ac33d3def1dc4ca0d7d1bf9bcf0"
+                    }
+                ],
+    "imzo":  "dzQ8_rAiUPFo_tfV-1IbCsU0snGl2HcRU6UpkUZMta535DWGtieWfe2yBhfrTU-cSlQMWRGOHoWXBDO5WAwszfJTnPcuJukk68bcnfvkXLRTs573qW5O5OtnTcT22YnhpTfy8zXYypsQ1q_wkhY9f7uysnpk-9K-SSpLH_MHAqQ"
+}
