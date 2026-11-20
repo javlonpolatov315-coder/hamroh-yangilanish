@@ -1,7 +1,7 @@
 {
-    "versiya":  "2026.11.20.2356",
+    "versiya":  "2026.11.21.0000",
     "izoh":  "",
-    "sana":  "2026-11-20 23:56",
+    "sana":  "2026-11-21 00:00",
     "fayllar":  [
                     {
                         "yol":  "Hamroh.exe",
@@ -9,7 +9,7 @@
                     },
                     {
                         "yol":  "app/hamroh.html",
-                        "sha256":  "96f74ea81a30fe57054c95d67c2956952465aa1c61b4c80bdcdc9223c73a5775"
+                        "sha256":  "2b1d0b723085e85db74413b3e8f142a7741ca10f01afafbda4786f375bffaa72"
                     },
                     {
                         "yol":  "app/manifest.json",
@@ -36,5 +36,5 @@
                         "sha256":  "4c2d5b6e9433860eead48c01da89ec6ffa4a1ac33d3def1dc4ca0d7d1bf9bcf0"
                     }
                 ],
-    "imzo":  "dzQ8_rAiUPFo_tfV-1IbCsU0snGl2HcRU6UpkUZMta535DWGtieWfe2yBhfrTU-cSlQMWRGOHoWXBDO5WAwszfJTnPcuJukk68bcnfvkXLRTs573qW5O5OtnTcT22YnhpTfy8zXYypsQ1q_wkhY9f7uysnpk-9K-SSpLH_MHAqQ"
+    "imzo":  "H_QiGvX3zdrj9koh2k1iOU8Ev9kIwKoUH8Qqe9y1Oy4gIj807gFk0XpG2TDgVL0Cng5u9dVwZAfpO_nTGwgb6u5Kk2epEcgPxbYu03l5Hs5JXLQghI3u25mWaNsGJBdyUcrm835hr35iXnSGXWHPZPEf5dGJhqxrIclbTqcw5es"
 }
